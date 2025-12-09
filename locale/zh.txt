@@ -1,0 +1,67 @@
+#: locale=zh
+
+## E-Learning
+
+### Answer
+questionOption_107510F8_00F2_B69E_415F_530E0B6FAE8C.text = LOGO1
+questionOption_104EA506_00F2_9F75_4132_275F567B272C.text = LOGO2
+questionOption_115B2BCF_00F3_8AF3_415E_7A1CF5A0E8E2.text = NTCU
+questionOption_0E2A4FC2_00F3_8AED_4167_AA53D31BF3CA.text = NTCU
+questionOption_0FBD2EC1_00F2_8AEE_4154_761144313068.text = NTNU
+questionOption_117C4E43_00F3_8DF2_4167_0A327B5052D1.text = NTU
+
+### Question
+question_113D83A5_00F3_BAB7_4157_90768C14BB44.title = LOGO
+question_1186E83B_00F2_9592_4167_A7708AF8E19E.title = LOGO是哪間學校的?
+question_0E3F50F5_00F2_F696_415B_E24206438B3B.title = 這間是甚麼大學?
+
+### Question Screen
+quizQuestion_0D597823_00F3_B5B3_4165_1F88933E6588.ok = OK
+
+### Report Screen
+quizScore_0D5F8823_00F3_B5B3_410F_72C1C15F0C10.title = - SCORE -
+quizScore_0D5F8823_00F3_B5B3_410F_72C1C15F0C10.completion = Completed
+quizScore_0D5F8823_00F3_B5B3_410F_72C1C15F0C10.questionsCorrect = Correct
+quizScore_0D5F8823_00F3_B5B3_410F_72C1C15F0C10.downloadCSV = Download .csv
+quizScore_0D5F8823_00F3_B5B3_410F_72C1C15F0C10.questionsIncorrect = Incorrect
+quizScore_0D5F8823_00F3_B5B3_410F_72C1C15F0C10.items = Items Found
+quizScore_0D5F8823_00F3_B5B3_410F_72C1C15F0C10.questions = Questions
+quizScore_0D5F8823_00F3_B5B3_410F_72C1C15F0C10.repeat = Repeat
+quizScore_0D5F8823_00F3_B5B3_410F_72C1C15F0C10.submitToLMS = Submit
+quizScore_0D5F8823_00F3_B5B3_410F_72C1C15F0C10.elapsedTime = Time
+
+### Score Name
+score1.label = Room1
+score2.label = Room2
+
+### Timeout Screen
+quizTimeout_0D5A6823_00F3_B5B3_4165_01465F22805D.title = - TIMEOUT -
+quizTimeout_0D5A6823_00F3_B5B3_4165_01465F22805D.repeat = Repeat
+quizTimeout_0D5A6823_00F3_B5B3_4165_01465F22805D.score = View Score
+
+## Media
+
+### Title
+album_12E016CB_00F3_9AF2_4154_B8A78FB70ACA_0.label = LOGO
+album_12DD7F69_00F3_8BB1_415C_491A50BD190C_0.label = LOGO
+panorama_092CD552_00F0_3582_4155_DB4BDBBA24C9.label = Master Bedroom
+album_12DD7F69_00F3_8BB1_415C_491A50BD190C.label = Photo Album LOGO
+album_12E016CB_00F3_9AF2_4154_B8A78FB70ACA.label = Photo Album LOGO
+album_0FB17627_00F2_BDB2_415A_2861C3B823C8.label = Photo Album ntcu
+panorama_0BDC39E3_00F0_1C82_4148_F83665E047A0.label = livingroom1
+panorama_09115B57_00F0_7D83_4169_257E80CE7624.label = livingroom2
+panorama_092CA89C_00F0_1C85_4140_74BEE29E028C.label = mainkitchen
+album_0FB17627_00F2_BDB2_415A_2861C3B823C8_0.label = ntcu
+panorama_092C9271_00F0_2F9E_4169_DFCFBF0E68E0.label = terraza1
+
+## Skin
+
+### Image
+Image_12C6D6F3_010E_BA92_413D_DD9FBB92D988.url = skin/Image_12C6D6F3_010E_BA92_413D_DD9FBB92D988_zh.png
+
+## Tour
+
+### Description
+
+### Title
+tour.name = NTCU VR
